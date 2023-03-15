@@ -2,7 +2,10 @@
 
 ## Requirements
 
-You will need an environment with node v16 and npm or yarn
+You will need an environment with:
+
+- node v16
+- npm or yarn
 
 ## Installation
 
@@ -27,4 +30,4 @@ This will run `src/index.ts` whenever you make changes to it.
 The first task is included, the remaining tasks will be sent to you as you progress.
 
 The task description is provided in comments, and there are TDD-style assertions that
-should help you visualize what kind of return behavior is expected
+should help you visualize what kind of return behavior is expected.
