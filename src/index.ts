@@ -1,4 +1,5 @@
 import assert from 'assert';
+import { time } from './util';
 
 
 // write a function add(a, b) that returns the sum of numbers a and b
